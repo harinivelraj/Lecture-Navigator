@@ -1,0 +1,178 @@
+{
+  "machine learning": {
+    "relevant_timestamps": [0.0, 5.5],
+    "description": "Introduction and overview of machine learning concepts"
+  },
+  "supervised learning": {
+    "relevant_timestamps": [5.5, 15.5],
+    "description": "Supervised learning definition and discussion"
+  },
+  "regression": {
+    "relevant_timestamps": [5.5, 15.5, 30.5],
+    "description": "Regression concept introduction and explanation"
+  },
+  "classification": {
+    "relevant_timestamps": [5.5, 15.5, 30.5],
+    "description": "Classification concept introduction and explanation"
+  },
+  "continuous values": {
+    "relevant_timestamps": [15.5],
+    "description": "Regression predicts continuous values"
+  },
+  "discrete labels": {
+    "relevant_timestamps": [15.5],
+    "description": "Classification predicts discrete labels"
+  },
+  "loss functions": {
+    "relevant_timestamps": [30.5],
+    "description": "Discussion of loss functions in ML"
+  },
+  "gradient descent": {
+    "relevant_timestamps": [30.5],
+    "description": "Gradient descent optimization technique"
+  },
+  "evaluation metrics": {
+    "relevant_timestamps": [30.5],
+    "description": "Metrics for evaluating ML models"
+  },
+  "accuracy": {
+    "relevant_timestamps": [30.5],
+    "description": "Accuracy as an evaluation metric"
+  },
+  "MRR": {
+    "relevant_timestamps": [30.5],
+    "description": "Mean Reciprocal Rank evaluation metric"
+  },
+  "intro to machine learning": {
+    "relevant_timestamps": [0.0],
+    "description": "Course introduction"
+  },
+  "what is regression": {
+    "relevant_timestamps": [15.5],
+    "description": "Regression definition and explanation"
+  },
+  "what is classification": {
+    "relevant_timestamps": [15.5],
+    "description": "Classification definition and explanation"
+  },
+  "supervised vs unsupervised": {
+    "relevant_timestamps": [5.5],
+    "description": "Types of machine learning approaches"
+  },
+  "predict continuous": {
+    "relevant_timestamps": [15.5],
+    "description": "Regression for continuous value prediction"
+  },
+  "predict discrete": {
+    "relevant_timestamps": [15.5],
+    "description": "Classification for discrete label prediction"
+  },
+  "machine learning basics": {
+    "relevant_timestamps": [0.0, 5.5],
+    "description": "Basic concepts in machine learning"
+  },
+  "ML introduction": {
+    "relevant_timestamps": [0.0],
+    "description": "Introduction to ML concepts"
+  },
+  "types of learning": {
+    "relevant_timestamps": [5.5],
+    "description": "Different types of learning approaches"
+  },
+  "regression vs classification": {
+    "relevant_timestamps": [15.5],
+    "description": "Comparison between regression and classification"
+  },
+  "continuous vs discrete": {
+    "relevant_timestamps": [15.5],
+    "description": "Difference between continuous and discrete predictions"
+  },
+  "gradient descent optimization": {
+    "relevant_timestamps": [30.5],
+    "description": "Optimization using gradient descent"
+  },
+  "loss function types": {
+    "relevant_timestamps": [30.5],
+    "description": "Different types of loss functions"
+  },
+  "model evaluation": {
+    "relevant_timestamps": [30.5],
+    "description": "Evaluating machine learning models"
+  },
+  "accuracy metric": {
+    "relevant_timestamps": [30.5],
+    "description": "Using accuracy to measure performance"
+  },
+  "mean reciprocal rank": {
+    "relevant_timestamps": [30.5],
+    "description": "MRR as an evaluation metric"
+  },
+  "supervised learning types": {
+    "relevant_timestamps": [5.5, 15.5],
+    "description": "Different types of supervised learning"
+  },
+  "regression models": {
+    "relevant_timestamps": [15.5],
+    "description": "Models for regression tasks"
+  },
+  "classification models": {
+    "relevant_timestamps": [15.5],
+    "description": "Models for classification tasks"
+  },
+  "machine learning lecture": {
+    "relevant_timestamps": [0.0],
+    "description": "Overall lecture content"
+  },
+  "intro ML": {
+    "relevant_timestamps": [0.0],
+    "description": "Introduction to ML"
+  },
+  "learning algorithms": {
+    "relevant_timestamps": [5.5],
+    "description": "Different learning algorithms"
+  },
+  "predictive modeling": {
+    "relevant_timestamps": [15.5],
+    "description": "Creating predictive models"
+  },
+  "linear regression": {
+    "relevant_timestamps": [15.5],
+    "description": "Linear regression for continuous prediction"
+  },
+  "logistic regression": {
+    "relevant_timestamps": [15.5],
+    "description": "Logistic regression for classification"
+  },
+  "what are loss functions": {
+    "relevant_timestamps": [30.5],
+    "description": "Explanation of loss functions"
+  },
+  "optimization techniques": {
+    "relevant_timestamps": [30.5],
+    "description": "Techniques for model optimization"
+  },
+  "performance metrics": {
+    "relevant_timestamps": [30.5],
+    "description": "Metrics to measure model performance"
+  },
+  "ML evaluation": {
+    "relevant_timestamps": [30.5],
+    "description": "Evaluating machine learning models"
+  },
+  "what is machine learning": {
+    "relevant_timestamps": [0.0, 5.5],
+    "description": "Basic definition of machine learning"
+  },
+  "prediction tasks": {
+    "relevant_timestamps": [15.5],
+    "description": "Different types of prediction tasks"
+  },
+  "training models": {
+    "relevant_timestamps": [30.5],
+    "description": "Process of training ML models"
+  },
+  "model optimization": {
+    "relevant_timestamps": [30.5],
+    "description": "Optimizing machine learning models"
+  }
+}

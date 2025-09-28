@@ -1,0 +1,15 @@
+1
+00:00:00,000 --> 00:00:05,000
+Welcome to the intro to machine learning.
+
+2
+00:00:05,500 --> 00:00:15,000
+In this lecture we will discuss supervised learning, regression, and classification.
+
+3
+00:00:15,500 --> 00:00:30,000
+Regression predicts continuous values. Classification predicts discrete labels.
+
+4
+00:00:30,500 --> 00:01:00,000
+We will cover loss functions, gradient descent, and evaluation metrics like accuracy and MRR.

@@ -1,0 +1,23 @@
+[
+  {
+    "video_id": "local_srt_sample_lecture.srt",
+    "t_start": 0.0,
+    "t_end": 30.0,
+    "text": "Welcome to the intro to machine learning. In this lecture we will discuss supervised learning, regression, and classification. Regression predicts continuous values. Classification predicts discrete labels.",
+    "title": "sample_lecture.srt"
+  },
+  {
+    "video_id": "local_srt_sample_lecture.srt",
+    "t_start": 25.0,
+    "t_end": 55.0,
+    "text": "Regression predicts continuous values. Classification predicts discrete labels. We will cover loss functions, gradient descent, and evaluation metrics like accuracy and MRR.",
+    "title": "sample_lecture.srt"
+  },
+  {
+    "video_id": "local_srt_sample_lecture.srt",
+    "t_start": 50.0,
+    "t_end": 60.0,
+    "text": "We will cover loss functions, gradient descent, and evaluation metrics like accuracy and MRR.",
+    "title": "sample_lecture.srt"
+  }
+]

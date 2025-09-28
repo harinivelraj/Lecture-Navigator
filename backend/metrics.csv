@@ -1,0 +1,6 @@
+event,timestamp,url_or_filename,search_type,latency_ms,cost,accuracy,extra
+ingest,1759069043.122873,https://www.youtube.com/watch?v=GwIo3gDZCVQ,,6505.563974380493,0,1.0,segments=1140
+search,1759069061.8093615,,SEMANTIC_OPTIMIZED,442.58785247802734,0,0.85,"method=FAST_BM25, total=443ms, bm25=7ms, results=3"
+search,1759069069.735285,,KEYWORD_OPTIMIZED,6.749629974365234,0,0.85,"method=FAST_BM25, total=7ms, bm25=7ms, results=3"
+search,1759069075.8657887,,KEYWORD_OPTIMIZED,3.9887428283691406,0,0.85,"method=FAST_BM25, total=4ms, bm25=4ms, results=3"
+search,1759069090.1285777,,KEYWORD_OPTIMIZED,3.3998489379882812,0,0.85,"method=FAST_BM25, total=3ms, bm25=3ms, results=3"
