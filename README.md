@@ -2,6 +2,7 @@ How to run the project?
 
 firstly we need to activate the virtual environment :
 python -m venv venv
+
 venv\Scripts\activate
 
 then go to backend:
